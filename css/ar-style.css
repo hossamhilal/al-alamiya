@@ -1,0 +1,42 @@
+
+body 
+{
+    direction:rtl;
+}
+
+.site-header .top-header .language {
+    text-align: left;
+    float: left;
+}
+
+.header-nav .toggle-btn {
+    left: 15px;
+    right: auto;
+}
+
+.site-header .header-nav .logo-box ,
+.about-section h4 ,
+.projects-section .item-box .data ,
+.footer .conatct-info ,
+.project-page ,
+.partners.project-partner h3
+{
+    text-align: right;
+}
+
+.footer .conatct-info .basic-head {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.projects-section .projest-owl .owl-nav ,
+.clients-section .owl-nav
+{
+    float: right;
+}
+
+.project-page .head .icofont 
+{
+    float: right;
+    line-height: 25px;
+}
